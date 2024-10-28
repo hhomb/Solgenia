@@ -1,6 +1,6 @@
 ## Solgenia
 
-Welcome to the Solgenia repository, home to the data and code powering: Solgenia an experimental platform aimed at advancing energy-efficient, autonomous water taxi technology.
+Welcome to the Solgenia repository, home to the data and code powering the paper with title: Solgenia - A Test Platform Toward Energy-Efficient Autonomous Water Taxi Applications.
 
 # Paper Submission Update
 
