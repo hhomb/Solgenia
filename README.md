@@ -1,11 +1,25 @@
 ## Solgenia
 
-Welcome to the Solgenia repository, home to the data and code powering the paper with title: Solgenia - A Test Vessel Toward Energy-Efficient Autonomous Water Taxi Applications.
+Welcome to the **Solgenia** repository — the official home of the data and code associated with our research paper:  
+**_Solgenia: A Test Vessel Toward Energy-Efficient Autonomous Water Taxi Applications_**
 
-# Paper Submission Update
+📄 The paper is available at [ScienceDirect (Elsevier Journal of Ocean Engineering)](https://www.sciencedirect.com/science/article/pii/S0029801825007243)
 
-Our research paper on Solgenia has been submitted to Elsevier’s Journal of Ocean Engineering. Following acceptance, we’ll publish the full codebase and complete documentation here to support further exploration and development.
+---
 
-# Coming Soon
+### 📢 Publication Update
 
-Stay tuned! Code, documentation, and additional resources will be available here soon after the paper's acceptance.
+Our research has been published in **Elsevier’s Journal of Ocean Engineering**. This repository provides supporting materials for replication, simulation, and further research.
+
+---
+
+### 📦 Repository Contents
+
+- **CAD Files**  
+  Detailed design files for the Solgenia research vessel.
+
+- **Measurement Data**  
+  Real-world experimental data, divided into training and test sets for model development and validation.
+
+- **Simulation Model**  
+  A dynamic model of the Solgenia vessel, including a minimal working example for simulation and visualization tasks.
